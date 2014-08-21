@@ -456,6 +456,7 @@
 				01F7DA6D19A3DB6E002EC77A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01F7DA6E19A3DB6E002EC77A /* Build configuration list for PBXNativeTarget "The Teacher CountTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +465,7 @@
 				01F7DA7019A3DB6E002EC77A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

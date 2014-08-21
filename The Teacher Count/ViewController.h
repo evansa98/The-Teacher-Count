@@ -7,7 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
-
+int counter=0;
 @interface ViewController : UIViewController
+
+@property (strong, nonatomic) IBOutlet UILabel *countLabel;
+@property (strong, nonatomic) IBOutlet UILabel *teacherName;
+
+- (IBAction)setToZero:(UIButton *)sender;
+- (IBAction)plusButton:(UIButton *)sender;
+- (IBAction)minusButton:(UIButton *)sender;
+- (IBAction)addTenToCount:(UIButton *)sender;
 
 @end
